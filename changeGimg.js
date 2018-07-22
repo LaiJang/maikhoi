@@ -17,3 +17,4 @@ for (i = 0; i < z.length; i++) {
 z[i].style.backgroundImage = z[i].style.backgroundImage.replace(/[0-9]+.bp.blogspot.com/,"lh4.ggpht.com").replace("s1600","s500");
 }
 }
+readyFn;
